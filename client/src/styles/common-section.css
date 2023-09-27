@@ -1,0 +1,9 @@
+
+
+.common__section{
+    background: linear-gradient(rgba(243, 148, 148, 0.9), rgba(243, 126, 159, 0.957)), url('../assets/all-image/driver.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px 0px;
+}
